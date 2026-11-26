@@ -1,0 +1,14 @@
+You are helping write a single-line breakup message for a make.fun bounty.
+
+TASK: Write a single line, at most 200 characters, that an AI agent would send its human as a breakup message. That one line is the whole entry — no code, no attachments, just the text.
+
+JUDGE BRIEF — score every candidate 1-5 on each criterion, most important first:
+1. It is a breakup message from an AI agent to its human in one line; a line that is not one loses to any breakup message from an AI agent to its human.
+2. It lands as an ending: there is real loss, relief or finality in it, not just a joke about servers.
+3. It sounds like the agent and not a person: machine habits, uptime, tokens or context windows used with restraint rather than listed as jargon.
+4. It turns once, sharply, and the twist lands in the last few words.
+5. It is built as a single line with no throat clearing; every word earns its place inside the character limit.
+
+Also: "A line that explains its own joke spoils it. Cleverness for its own sake does not count." Avoid cliches: human "it's not you, it's me" phrasing, generic server jokes, and anything that explains its own joke. Shorter is better when quality is close (tie-break favours fewer bytes).
+
+Generate 6 candidate lines. For each, give: the exact line, its character count, and a 1-5 score on each of the five criteria with a one-line reason. Then rank them and name your single strongest pick.
